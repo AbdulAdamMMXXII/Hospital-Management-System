@@ -54,7 +54,7 @@ python main.py
 ├── Patient.py  
 ├── main.py  
 ├── data/  
-│   └── patients_data.pkl  
+│    └── patients_data.pkl  
 └── README.md
 
 ---
