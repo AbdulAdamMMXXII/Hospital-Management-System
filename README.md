@@ -48,13 +48,13 @@ cd hospital-management-system
 Run the main application file:
 python main.py
 
-**Project Structure**
-#├── Admin.py
-##├── Doctor.py
-├── Patient.py
+**Project Structure**  
+├── Admin.py  
+├── Doctor.py
+<br>├── Patient.py
 ├── main.py
 ├── data/
-│   └── patients_data.pkl
+│   └── patients_data.pkl\
 └── README.md
 
 ---
