@@ -49,8 +49,8 @@ Run the main application file:
 python main.py
 
 **Project Structure**
-├── Admin.py
-├── Doctor.py
+#├── Admin.py
+##├── Doctor.py
 ├── Patient.py
 ├── main.py
 ├── data/
