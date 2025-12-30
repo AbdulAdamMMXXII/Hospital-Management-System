@@ -50,27 +50,27 @@ python main.py
 
 **Project Structure**  
 ├── Admin.py  
-├── Doctor.py
-<br>├── Patient.py
-├── main.py
-├── data/
-│   └── patients_data.pkl\
+├── Doctor.py  
+├── Patient.py  
+├── main.py  
+├── data/  
+│   └── patients_data.pkl  
 └── README.md
 
 ---
 
-**Learning Outcomes**
-Applied object-oriented programming to a real-world domain
-Designed and managed interrelated data models
-Implemented defensive programming techniques
-Gained experience with system-level problem decomposition
+**Learning Outcomes**  
+Applied object-oriented programming to a real-world domain  
+Designed and managed interrelated data models  
+Implemented defensive programming techniques  
+Gained experience with system-level problem decomposition  
 Developed foundational skills relevant to large-scale software systems
 
 ---
 
-**Future Improvements**
-Graphical User Interface (GUI)
-Database-backed persistence (e.g., SQLite)
-Role-based access control
-Automated unit and integration testing
-REST-based architecture for web deployment
+**Future Improvements**  
+Graphical User Interface (GUI)  
+Database-backed persistence (e.g., SQLite)  
+Role-based access control  
+Automated unit and integration testing  
+REST-based architecture for web deployment  
